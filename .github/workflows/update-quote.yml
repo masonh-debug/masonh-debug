@@ -1,0 +1,61 @@
+name: Update Profile Quote
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Allows students to manually test and trigger the action from GitHub CLI / UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Tech Quote & Update README
+        run: |
+          # Fetch a programming quote via curl (falls back to a default if unavailable)
+          QUOTE_JSON=$(curl -s --connect-timeout 5 https://dummyjson.com/quotes/random || echo '{"quote":"Code is like humor. When you have to explain it, it’s bad.","author":"Cory House"}')
+          
+          RAW_QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote // "First, solve the problem. Then, write the code."')
+          RAW_AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.author // "John Johnson"')
+          
+          FORMATTED_LINE="> \"${RAW_QUOTE}\" — *${RAW_AUTHOR}*"
+          echo "New Quote: $FORMATTED_LINE"
+          
+          # Replace content between <!-- QUOTE_START --> and <!-- QUOTE_END -->
+          python3 -c "
+          import re
+
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          replacement = '<!-- QUOTE_START -->\n' + '''${FORMATTED_LINE}''' + '\n<!-- QUOTE_END -->'
+          pattern = r'<!-- QUOTE_START -->.*?<!-- QUOTE_END -->'
+
+          new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+
+          with open('README.md', 'w') as f:
+              f.write(new_content)
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add README.md
+          
+          # Only commit if README.md was actually modified
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "chore(profile): update daily quote [skip ci]"
+            git push
+          fi
