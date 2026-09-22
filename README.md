@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." -Steve Jobs
+> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too." — *Muhammad Ali*
 <!-- QUOTE_END -->
