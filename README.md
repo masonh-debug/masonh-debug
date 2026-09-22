@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too." — *Muhammad Ali*
+> "The man with no imagination has no wings." — *Muhammad Ali*
 <!-- QUOTE_END -->
