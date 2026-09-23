@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The man with no imagination has no wings." — *Muhammad Ali*
+> "Drag Your Thoughts Away From Your Troubles... By The Ears, By The Heels, Or Any Other Way You Can Manage It." — *Mark Twain*
 <!-- QUOTE_END -->
