@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — *Benjamin Franklin*
+> "I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want." — *Muhammad Ali*
 <!-- QUOTE_END -->
