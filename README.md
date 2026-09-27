@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want." — *Muhammad Ali*
+> "All God's creatures are His family; and he is the most beloved of God who tries to do most good to God's creatures." — *Abdul Kalam*
 <!-- QUOTE_END -->
