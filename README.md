@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "All God's creatures are His family; and he is the most beloved of God who tries to do most good to God's creatures." — *Abdul Kalam*
+> "Be patient; patience is a pillar of faith." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
