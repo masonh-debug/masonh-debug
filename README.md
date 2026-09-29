@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Be patient; patience is a pillar of faith." — *Umar ibn Al-Khattāb (R.A)*
+> "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
