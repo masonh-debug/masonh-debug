@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see." — *Ali ibn Abi Talib (R.A)*
+> "Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power." — *Leonardo Da Vinci*
 <!-- QUOTE_END -->
