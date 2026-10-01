@@ -8,5 +8,5 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power." — *Leonardo Da Vinci*
+> "Money Has Never Made Man Happy, Nor Will It, There Is Nothing In Its Nature To Produce Happiness. The More Of It One Has The More One Wants." — *Benjamin Franklin*
 <!-- QUOTE_END -->
