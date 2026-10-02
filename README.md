@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Money Has Never Made Man Happy, Nor Will It, There Is Nothing In Its Nature To Produce Happiness. The More Of It One Has The More One Wants." — *Benjamin Franklin*
+> "At Twenty Years Of Age The Will Reigns; At Thirty, The Wit; And At Forty, The Judgment." — *Benjamin Franklin*
 <!-- QUOTE_END -->
 
   7
