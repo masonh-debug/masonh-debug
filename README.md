@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "At Twenty Years Of Age The Will Reigns; At Thirty, The Wit; And At Forty, The Judgment." — *Benjamin Franklin*
+> "You cannot change your future, but you can change your habits, and surely your habits will change your future." — *Abdul Kalam*
 <!-- QUOTE_END -->
 
   7
