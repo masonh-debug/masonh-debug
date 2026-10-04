@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "You cannot change your future, but you can change your habits, and surely your habits will change your future." — *Abdul Kalam*
+> "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level." — *Abdul Kalam*
 <!-- QUOTE_END -->
 
   7
