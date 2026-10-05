@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Creativity is the key to success in the future, and primary education is where teachers can bring creativity in children at that level." — *Abdul Kalam*
+> "Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others." — *John F. Kennedy*
 <!-- QUOTE_END -->
 
   7
