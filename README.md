@@ -25,5 +25,5 @@ sudo mkdir -p /mnt/cdrom
 sudo mount /dev/cdrom /mnt/cdrom
 cd /mnt/cdrom
 sudo ./VBoxLinuxAdditions.run
-
+#restart VM
 
