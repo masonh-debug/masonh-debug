@@ -11,9 +11,7 @@ echo "building, breaking, and securing network & systems."
 > "Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others." — *John F. Kennedy*
 <!-- QUOTE_END -->
 
-  7
-   8 winrm quickconfig -q
-   9 winrm set winrm/config/service '@{AllowUnencrypted="true"}'
-  10 winrm set winrm/config/service/auth '@{Basic="true"}'
-  12 New-NetFirewallRule -DisplayName "Ansible WinRM HTTP" -Direction Inbound -LocalPort 5985 -Protocol TCP -Action Allow
-  13 winrm enumerate winrm/config/listener
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+Start-Service sshd
+Set-Service -Name sshd -StartupType 'Automatic'
+
