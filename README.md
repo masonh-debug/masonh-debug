@@ -11,7 +11,11 @@ echo "building, breaking, and securing network & systems."
 > "Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others." — *John F. Kennedy*
 <!-- QUOTE_END -->
 
-Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
-Start-Service sshd
-Set-Service -Name sshd -StartupType 'Automatic'
+Get-NetConnectionProfile
+Set-NetConnectionProfile -NetworkCategory Private
+winrm invoke Restore winrm/config
+winrm quickconfig -q
+winrm e winrm/config/listener
+New-NetFirewallRule -DisplayName "Ansible WinRM HTTP" -Direction Inbound -LocalPort 5985 -Protocol TCP -Action Allow
+
 
