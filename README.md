@@ -18,12 +18,15 @@ winrm quickconfig -q
 winrm e winrm/config/listener
 New-NetFirewallRule -DisplayName "Ansible WinRM HTTP" -Direction Inbound -LocalPort 5985 -Protocol TCP -Action Allow
 
-#Bidirectional drag and drop vm
+#Bidirectional drag and drop VM
+# click Devices and insert Guest Addition CD
+#bring up a terminal and input these commands
+
 sudo apt update && sudo apt upgrade -y
 sudo apt install build-essential linux-headers-$(uname -r) dkms -y
 sudo mkdir -p /mnt/cdrom
 sudo mount /dev/cdrom /mnt/cdrom
 cd /mnt/cdrom
 sudo ./VBoxLinuxAdditions.run
-#restart VM
+#last step restart VM
 
