@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others." — *John F. Kennedy*
+> "The Past Is A Ghost, The Future A Dream, And All We Ever Have Is Now." — *Bill Cosby*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
