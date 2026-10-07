@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The Past Is A Ghost, The Future A Dream, And All We Ever Have Is Now." — *Bill Cosby*
+> "Real Loss Is Only Possible When You Love Something More Than You Love Yourself." — *Robin Williams*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
