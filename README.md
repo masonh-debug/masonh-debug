@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Real Loss Is Only Possible When You Love Something More Than You Love Yourself." — *Robin Williams*
+> "There Is No Labor A Person Does That Is Undignified; If They Do It Right." — *Bill Cosby*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
