@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Study me as much as you like, you will not know me, for I differ in a hundred ways from what you see me to be. Put yourself behind my eyes and see me as I see myself, for I have chosen to dwell in a place you cannot see." — *Rumi*
+> "Everything That Is Really Great And Inspiring Is Created By The Individual Who Can Labor In Freedom." — *Albert Einstein*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
