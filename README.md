@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Everything That Is Really Great And Inspiring Is Created By The Individual Who Can Labor In Freedom." — *Albert Einstein*
+> "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced." — *Vincent Van Gogh*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
