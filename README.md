@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced." — *Vincent Van Gogh*
+> "You show your worth by what you seek." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
