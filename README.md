@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "You show your worth by what you seek." — *Rumi*
+> "Faith Is Taking The First Step Even When You Don'T See The Whole Staircase." — *Martin Luther King  Jr.*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
