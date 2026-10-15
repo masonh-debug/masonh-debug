@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Faith Is Taking The First Step Even When You Don'T See The Whole Staircase." — *Martin Luther King  Jr.*
+> "Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God." — *Muhammad Ali*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
