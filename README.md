@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God." — *Muhammad Ali*
+> "If There Is Something To Pardon In Everything, There Is Also Something To Condemn." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
