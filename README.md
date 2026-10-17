@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "If There Is Something To Pardon In Everything, There Is Also Something To Condemn." — *Friedrich Nietzsche*
+> "No wealth like education and no poverty like ignorance." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
