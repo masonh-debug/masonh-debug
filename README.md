@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "No wealth like education and no poverty like ignorance." — *Ali ibn Abi Talib (R.A)*
+> "Love Is The Only Force Capable Of Transforming An Enemy Into Friend." — *Martin Luther King  Jr.*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
