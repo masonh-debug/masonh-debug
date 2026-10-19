@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Love Is The Only Force Capable Of Transforming An Enemy Into Friend." — *Martin Luther King  Jr.*
+> "As a child of God, I am greater than anything that can happen to me." — *Abdul Kalam*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
