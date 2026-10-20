@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "As a child of God, I am greater than anything that can happen to me." — *Abdul Kalam*
+> "All That I Am, Or Hope To Be, I Owe To My Angel Mother." — *Abraham Lincoln*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
