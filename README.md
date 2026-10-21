@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "All That I Am, Or Hope To Be, I Owe To My Angel Mother." — *Abraham Lincoln*
+> "Should I Kill Myself, Or Have A Cup Of Coffee?" — *Albert Camus*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
