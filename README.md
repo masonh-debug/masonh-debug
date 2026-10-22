@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Should I Kill Myself, Or Have A Cup Of Coffee?" — *Albert Camus*
+> "Doing as others told me, I was Blind. Coming when others called me, I was Lost. Then I left everyone, myself as well. Then I found Everyone, Myself as well." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
