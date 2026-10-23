@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Doing as others told me, I was Blind. Coming when others called me, I was Lost. Then I left everyone, myself as well. Then I found Everyone, Myself as well." — *Rumi*
+> "Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — *Mother Teresa*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
