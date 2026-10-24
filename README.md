@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — *Mother Teresa*
+> "The breeze at dawn has secrets to tell you. Don't go back to sleep." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
