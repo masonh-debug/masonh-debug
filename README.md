@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The breeze at dawn has secrets to tell you. Don't go back to sleep." — *Rumi*
+> "Do not overeat; that invites disease." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
