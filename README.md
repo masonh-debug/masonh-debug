@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Do not overeat; that invites disease." — *Umar ibn Al-Khattāb (R.A)*
+> "Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
