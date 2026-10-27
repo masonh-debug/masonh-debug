@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day." — *Friedrich Nietzsche*
+> "The wiser a man is, the less talkative will he be." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
