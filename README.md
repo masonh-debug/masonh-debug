@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The wiser a man is, the less talkative will he be." — *Ali ibn Abi Talib (R.A)*
+> "I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields." — *Willie Nelson*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
