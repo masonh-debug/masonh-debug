@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields." — *Willie Nelson*
+> "Marriage Is Like Putting Your Hand Into A Bag Of Snakes In The Hope Of Pulling Out An Eel." — *Leonardo Da Vinci*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
