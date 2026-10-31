@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Only last week I murdered a rock, injured a stone and hospitalized a brick." — *Muhammad Ali*
+> "Great Ideas Originate In The Muscles." — *Thomas A. Edison*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
