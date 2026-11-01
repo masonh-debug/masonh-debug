@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Great Ideas Originate In The Muscles." — *Thomas A. Edison*
+> "A man's behavior is the index of the man, and his discourse is the index of his understanding." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
