@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "A man's behavior is the index of the man, and his discourse is the index of his understanding." — *Ali ibn Abi Talib (R.A)*
+> "I Think It'S Nice For Women To Try To Be Sexy For Their Man." — *Salma Hayek*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
