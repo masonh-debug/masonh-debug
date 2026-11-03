@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "I Think It'S Nice For Women To Try To Be Sexy For Their Man." — *Salma Hayek*
+> "A Person Who Won'T Read Has No Advantage Over One Who Can'T Read." — *Mark Twain*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
