@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "A Person Who Won'T Read Has No Advantage Over One Who Can'T Read." — *Mark Twain*
+> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — *Abraham Lincoln*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
