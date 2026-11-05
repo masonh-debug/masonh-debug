@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — *Abraham Lincoln*
+> "Wisdom is like the rain. Its source is limitless, but it comes down according to the season." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
