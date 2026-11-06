@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Wisdom is like the rain. Its source is limitless, but it comes down according to the season." — *Rumi*
+> "We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public." — *Walt Disney*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
