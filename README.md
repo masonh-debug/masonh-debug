@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public." — *Walt Disney*
+> "If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
