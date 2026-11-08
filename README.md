@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife." — *Rumi*
+> "Have An Earnestness For Death And You Will Have Life." — *Abu Bakr*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
