@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Have An Earnestness For Death And You Will Have Life." — *Abu Bakr*
+> "Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out." — *Benjamin Franklin*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
