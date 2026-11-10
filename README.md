@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out." — *Benjamin Franklin*
+> "Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1." — *Warren Buffett*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
