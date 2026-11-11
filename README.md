@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1." — *Warren Buffett*
+> "Greed makes man blind and foolish, and makes him an easy prey for death." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
