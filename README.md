@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Greed makes man blind and foolish, and makes him an easy prey for death." — *Rumi*
+> "Be melting snow. Wash yourself of yourself." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
