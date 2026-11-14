@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The Miracle Is Not That We Do This Work, But That We Are Happy To Do It." — *Mother Teresa*
+> "Through love, all pain will turn to medicine." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
