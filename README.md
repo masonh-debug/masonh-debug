@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Through love, all pain will turn to medicine." — *Rumi*
+> "Do not put off today's work for tomorrow." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
