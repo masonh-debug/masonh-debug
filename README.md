@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Do not put off today's work for tomorrow." — *Umar ibn Al-Khattāb (R.A)*
+> "Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — *Ayn Rand*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
