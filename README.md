@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Happiness Is That State Of Consciousness Which Proceeds From The Achievement Of One'S Values." — *Ayn Rand*
+> "A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life." — *Muhammad Ali*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
