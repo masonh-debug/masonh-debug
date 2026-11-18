@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life." — *Muhammad Ali*
+> "Appear as you are, Be as you appear." — *Rumi*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
