@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Appear as you are, Be as you appear." — *Rumi*
+> "Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult." — *Abdul Kalam*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
