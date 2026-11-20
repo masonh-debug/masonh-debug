@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult." — *Abdul Kalam*
+> "Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe." — *Muhammad Ali*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
