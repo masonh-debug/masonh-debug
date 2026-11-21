@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Often it isn't the mountains ahead that wear you out, it's the little pebble in your shoe." — *Muhammad Ali*
+> "Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
