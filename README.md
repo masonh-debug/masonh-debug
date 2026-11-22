@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination." — *Ali ibn Abi Talib (R.A)*
+> "The World Is A Dangerous Place To Live; Not Because Of The People Who Are Evil, But Because Of The People Who Don'T Do Anything About It." — *Albert Einstein*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
