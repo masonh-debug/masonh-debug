@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The World Is A Dangerous Place To Live; Not Because Of The People Who Are Evil, But Because Of The People Who Don'T Do Anything About It." — *Albert Einstein*
+> "Fear only the will of God and you will have no cause to fear anyone else." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
