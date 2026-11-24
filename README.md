@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Fear only the will of God and you will have no cause to fear anyone else." — *Ali ibn Abi Talib (R.A)*
+> "Do not take someone's silence as his pride, perhaps he is busy fighting with his self." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
