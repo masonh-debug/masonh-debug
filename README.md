@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Do not take someone's silence as his pride, perhaps he is busy fighting with his self." — *Ali ibn Abi Talib (R.A)*
+> "Money Is The Barometer Of A Society'S Virtue." — *Ayn Rand*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
