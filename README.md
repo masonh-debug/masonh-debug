@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Money Is The Barometer Of A Society'S Virtue." — *Ayn Rand*
+> "The Way You See People Is The Way You Treat Them." — *Zig Ziglar*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
