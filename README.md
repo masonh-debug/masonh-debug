@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "The Way You See People Is The Way You Treat Them." — *Zig Ziglar*
+> "Champions have to have the skill and the will. But the will must be stronger than the skill." — *Muhammad Ali*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
