@@ -8,7 +8,7 @@
 ```bash
 echo "building, breaking, and securing network & systems."
 <!-- QUOTE_START -->
-> "Champions have to have the skill and the will. But the will must be stronger than the skill." — *Muhammad Ali*
+> "People's hearts are like wild animals. They attach their selves to those that love and train them." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
 
 Get-NetConnectionProfile
